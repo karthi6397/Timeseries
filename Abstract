@@ -1,0 +1,11 @@
+The use of micro-algae for wastewater treatment is a promising technique that contributes CO2 capture and nutrient
+recovery. However, the absence of a forecasting model hinders the application of microalgae on a larger scale. In this
+study, a time-series-based forecasting model was designed to forecast the growth curve of microalgal biomass with
+resembling environmental sample conditions. The collected data was trained with four machine-learning models:
+LSTM, XGBoost, ARIMA, and Prophet. The model performance metrics were compared, and the best model was
+identified. The results demonstrated that the LSTM method outperforms all other machine learning models, exhibiting
+higher R2
+values (0.75) and minimal errors. Residual analysis indicates a consistent spread across the range of
+predicted values, indicating a normal distribution and the absence of outliers. The proposed model has the potential to
+estimate microalgal growth trends, potentially mitigating the necessity for labor-intensive, costly, and time-consuming
+laboratory trials
