@@ -1,5 +1,6 @@
 # Timeseries
 Time series model for Microalgae prediction
+
 **Time Series Analysis**
 This repository contains Jupyter Notebook(s) for time series analysis, covering various techniques and tools to preprocess, analyze, and visualize time series data.
 
@@ -12,6 +13,7 @@ Time series Codes.ipynb: A Jupyter Notebook with code examples and explanations 
   Exploratory data analysis (EDA) for time series
   Various time series models and forecasting methods
   Visualizations of time series data
+
 **Prerequisites**
   To run this project, you will need the following Python packages:
     numpy
